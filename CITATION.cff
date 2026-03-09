@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Semi-automated coding notebook for polycentric AI governance analysis"
+type: software
+version: "v1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+authors:
+  - family-names: "Astobiza Monasterio"
+    given-names: "Aníbal"
+    orcid: "https://orcid.org/0000-0003-1399-5388"
+  - family-names: "Astier"
+    given-names: "Cristina"
+    orcid: "https://orcid.org/0000-0001-7385-4072"
+  - family-names: "Ausín"
+    given-names: "Txetxu"
+    orcid: "https://orcid.org/0000-0003-2098-5540"
