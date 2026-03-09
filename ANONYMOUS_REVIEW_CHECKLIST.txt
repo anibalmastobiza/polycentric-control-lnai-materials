@@ -1,7 +1,0 @@
-Anonymous review checklist
-
-1. Remove or anonymize public repository links before submission if review is double-blind.
-2. Remove explicit author names, affiliations, ORCID identifiers, and email addresses from the manuscript.
-3. Remove hidden metadata from the final PDF/Word file before upload.
-4. If code must be shared during review, use an anonymized repository without personal profiles or commit history that reveals authorship.
-5. Restore the real Code availability statement only in the camera-ready version unless the venue explicitly permits identified supplementary materials during review.
