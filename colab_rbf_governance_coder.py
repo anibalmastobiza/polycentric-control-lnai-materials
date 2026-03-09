@@ -1,10 +1,10 @@
-"""Colab-ready semi-automated governance coder.
+"""Colab notebook source for the semi-automated governance coder.
 
-Copy this file's contents into a Google Colab notebook, or run it as a script in a
-Python environment that has access to uploaded documents.
+This script mirrors the notebook workflow and can also be executed in a Python
+environment with access to the source document.
 """
 
-# Cell 1: optional dependencies for PDF support
+# Cell 1: PDF dependency
 # !pip -q install pypdf
 
 # Cell 2: imports and coding logic
@@ -279,9 +279,9 @@ def print_results(results: dict) -> None:
             print(f"- ({item['similarity']}) {item['text'][:280]}")
 
 
-# Cell 3: upload one file from your computer
+# Cell 3: ingest a single uploaded file
 if files is None:
-    raise RuntimeError("This block is intended for Google Colab.")
+    raise RuntimeError("This block is intended for Google Colab execution.")
 
 uploaded = files.upload()
 filename = next(iter(uploaded))
@@ -299,7 +299,7 @@ results = code_text(text, gamma=1.5)
 print_results(results)
 
 
-# Cell 5: optional JSON export
+# Cell 5: write JSON results
 with open("coding_results.json", "w", encoding="utf-8") as handle:
     json.dump(results, handle, indent=2, ensure_ascii=False)
 
