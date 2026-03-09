@@ -24,6 +24,4 @@ Archive the repository in Zenodo and replace the DOI placeholder below:
 
 `Astobiza Monasterio, Aníbal, Astier, Cristina, & Ausín, Txetxu. (2026). Semi-automated coding notebook for polycentric AI governance analysis (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX`
 
-## Review mode
 
-If the conference uses anonymous review, keep the public repository private until acceptance or use an anonymized repository without author-identifying metadata.
