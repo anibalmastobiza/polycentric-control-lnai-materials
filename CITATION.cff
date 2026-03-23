@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 title: "Semi-automated coding notebook for polycentric AI governance analysis"
 type: software
 version: "v1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"
-url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.19196034"
+url: "https://doi.org/10.5281/zenodo.19196034"
 authors:
   - family-names: "Astobiza Monasterio"
     given-names: "Aníbal"
