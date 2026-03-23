@@ -22,4 +22,4 @@ The procedure is intended as a reproducibility aid and consistency check. It doe
 
 Archive the repository in Zenodo and replace the DOI placeholder below:
 
-`Astobiza Monasterio, Aníbal, Astier, Cristina, & Ausín, Txetxu. (2026). Semi-automated coding notebook for polycentric AI governance analysis (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX`
+`Astobiza Monasterio, Aníbal, Astier, Cristina, & Ausín, Txetxu. (2026). Semi-automated coding notebook for polycentric AI governance analysis (Version v1.0.0) [https://colab.research.google.com/github/anibalmastobiza/polycentric-control-lnai-materials/blob/main/colab_rbf_governance_coder.ipynb]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX`
